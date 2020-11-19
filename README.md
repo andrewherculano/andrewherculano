@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 I'm a student in computer science, passionate about programming!
 
 [![Twitter Badge](https://img.shields.io/badge/-@andrewhers-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/andrewhers)](https://twitter.com/andrewhers) 
-
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Herculano-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-herculano-86023119a/)](https://www.linkedin.com/in/andrew-herculano-86023119a/) 
