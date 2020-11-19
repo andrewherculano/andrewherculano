@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 ### Hi, I'm Andrew 👨‍💻.
 
 I'm a student in computer science, passionate about programming!
+
+[![Twitter Badge](https://img.shields.io/badge/-@andrewhers-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/andrewhers)](https://twitter.com/andrewhers) 
+
